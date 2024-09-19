@@ -15,3 +15,19 @@ To get started with this project, follow these steps:
 **Clone the Repository:**
    ```bash
    git clone https://github.com/chaitanyasingh7/Stock-Market-Analysis-Project.git
+```
+## Stock Market Analysis and Prediction Web App
+As an add-on to this project, I also created an easy to use web app using streamlit for quick stock analysis.
+
+### Features
+
+- Fetch real-time stock data for any company using its ticker symbol.
+- Visualize stock performance over time with **line charts**.
+- Analyze stock volumes with **histograms**.
+- Interactive visualizations with **Plotly** for better user experience.
+
+### Access the Web App
+
+You can access the live web app here: [Stock Market Analysis Web App](https://stock-market-analysis-web.streamlit.app/)
+
+Feel free to explore the data and play around with the visualizations!
